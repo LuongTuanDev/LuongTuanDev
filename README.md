@@ -2,7 +2,9 @@
 
 ![Nox's Banner](https://readme-typing-svg.herokuapp.com?font=Roboto&size=18&pause=1000&color=00CCFF&center=true&vCenter=true&width=400&lines=Chào+đến+với+Nox!;Code+C%23,+Học+Tiếng+Nhật)
 
-Chào bạn! Tôi là **Nox**, một người mới học lập trình C# và tiếng Nhật N5. 😄 Đây là nơi tôi chia sẻ hành trình học tập của mình.
+👋 Chào bạn! Tôi là **Nox**.
+🌌 Một người mới học lập trình C# và tiếng Nhật N5.
+😄 Đây là nơi tôi chia sẻ hành trình học tập của mình.
 
 ---
 
@@ -12,15 +14,14 @@ Chào bạn! Tôi là **Nox**, một người mới học lập trình C# và ti
 - **Sở thích**:  
   - 🖥 Lập trình C# (WinForms, ứng dụng đơn giản).  
   - 🇯🇵 Tiếng Nhật N5 (hiragana, katakana, từ vựng cơ bản).  
-  - 📊 Excel để quản lý dữ liệu.  
+  - 🎮 Chơi game (MOBA, RPG, FPS).
   - ✍️ Thơ thả thính siêu ngọt.  
 - **Điểm mạnh**:  
   - 💡 Sáng tạo, thích khám phá cách làm mới.  
   - 🧠 Học nhanh qua thực hành.  
   - 😊 Vui vẻ, dễ làm việc cùng.  
 - **Khả năng**:  
-  - Code C# cơ bản (form, random number).  
-  - Excel (tính toán, biểu đồ đơn giản).  
+  - Code C# cơ bản (form, random number).    
   - Đọc/viết tiếng Nhật N5.  
 
 ---
@@ -43,7 +44,7 @@ Chào bạn! Tôi là **Nox**, một người mới học lập trình C# và ti
 - **[BudgetTracker](https://github.com/yourusername/BudgetTracker)**: File Excel quản lý chi tiêu.  
 - **[N5Words](https://github.com/yourusername/N5Words)**: Flashcard từ vựng tiếng Nhật N5.  
 
-*(Thay `yourusername` bằng tài khoản GitHub của bạn!)*
+LuongTuanDev
 
 ---
 
@@ -67,7 +68,7 @@ Chào bạn! Tôi là **Nox**, một người mới học lập trình C# và ti
 
 - 📧 Email: ttuanluongg@gmai.com  
 - 🌐 GitHub: https://github.com/LuongTuanDev  
-
+- 🎮 Discord: luongtuan0409
 ---
 
 ## 🎉 Fun Fact
