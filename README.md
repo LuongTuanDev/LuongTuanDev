@@ -68,7 +68,7 @@ LuongTuanDev
 
 - 📧 Email: ttuanluongg@gmai.com  
 - 🌐 GitHub: https://github.com/LuongTuanDev  
-- 🎮 Discord: luongtuan0409
+- 🎮 Discord: [luongtuan0409](https://canary.discord.com/channels/@me)
 ---
 
 ## 🎉 Fun Fact
