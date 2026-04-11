@@ -26,7 +26,7 @@ Một người mới học lập trình C# và tiếng Nhật N5.
 
 ---
 
-## 🛠 Kỹ năng
+## Kỹ năng
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
